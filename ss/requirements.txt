@@ -1,0 +1,13 @@
+cs50==9.2.5
+Flask==2.3.3
+Flask-Session==0.5.0
+gunicorn==21.2.0
+psycopg2-binary==2.9.7
+requests==2.31.0
+Werkzeug==2.3.7
+setuptools>=65.5.1 # not directly required, pinned to avoid a vulnerability
+wheel>=0.38.0 # not directly required, pinned to avoid a vulnerability
+yfinance==0.2.26
+numpy>=1.22.2 # not directly required, pinned by Snyk to avoid a vulnerability
+Flask-SQLAlchemy
+Flask-Migrate
